@@ -1,0 +1,35 @@
+#main_id{
+    color: red;
+  
+}
+*{
+    background-color: aqua;
+}
+
+#main_id2{
+    color: blue;
+}
+#main_id3{
+    color: darkorchid;
+}
+.id_1{
+    color: blue;
+}
+#main_id4{
+    color: coral;
+}
+#main_head{
+    color: brown;
+}
+#main{
+    color: gray;
+}
+#id_2{
+    color: green;
+}
+#id_5{
+  color: rebeccapurple;
+}
+.class_1{
+    color: deeppink;
+}
